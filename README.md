@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @harshcodes17
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning c language
-- 💞️ I’m looking to collaborate on -no idea
+- 💞️ I’m looking to collaborate on video games
 - 📫 How to reach me contact me on gmail
 
 <!---
