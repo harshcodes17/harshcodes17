@@ -45,9 +45,9 @@
  <!--<p align="left">
   <img width="320" height="445" src="https://spotify-github-profile.vercel.app/api/view?uid=31kapuaf7zkux4xjdluseskjzvly&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false">
 </p>-->
-<p display:inline-block;">
+<p align ="center" display:inline-block;">
 <img class="manImg" width="320" height="445" src="https://spotify-github-profile.vercel.app/api/view?uid=31kapuaf7zkux4xjdluseskjzvly&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"></img>
-<img align="right" src="https://media.tenor.com/LEjxn4RZzlQAAAAC/hajime-no-ippo-ippo.gif">
+
 </p
 
 <h3 align="left">Languages and Tools:</h3>
