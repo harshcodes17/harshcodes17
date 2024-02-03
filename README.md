@@ -54,7 +54,7 @@
   <img width="320" height="445" src="https://spotify-github-profile.vercel.app/api/view?uid=31kapuaf7zkux4xjdluseskjzvly&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false">
 </p>-->
 <p align ="center" display:inline-block;">
-<img class="manImg" width="320" height="445" src="https://spotify-github-profile.vercel.app/api/view?uid=31kapuaf7zkux4xjdluseskjzvly&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"></img>
+<img class="manImg" width="500" height="500" src="https://codeforces-readme-stats.vercel.app/api/card?username=harsh_bamane17"></img>
 <img  align=left flex-grow=1 src="https://leetcard.jacoblin.cool/harshbamane17?theme=dark&font=Nunito&ext=heatmap" />  
 </p
 
