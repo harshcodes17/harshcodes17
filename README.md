@@ -3,12 +3,19 @@
 </div>
 <div align="center" style="margin:100px;" >
 <img src="https://i.pinimg.com/originals/62/6e/a5/626ea526a99e77215b8cc49def887c37.gif" alt="welcome"/> 
+  <br>
+<img align="center" src="http://orig09.deviantart.net/92ea/f/2015/274/f/6/saitama_punch_by_xhienx-d9bmfne.gif" alt="saitama's_serious_punch"/> 
 </div>
 <div align="center">  
   
   ![](https://komarev.com/ghpvc/?username=harshcodes17&color=blue)
   
 </div>
+
+
+
+
+
 
 <h1 align="center">Hi 👋, I'm Harshavardhan Bamane</h1>
 <h3 align="center">A passionate developer from India</h3>
@@ -21,9 +28,7 @@
     <a href="https://app.daily.dev/harshbamane17"><img src="https://api.daily.dev/devcards/25669fe7a23d47e9ad5b522e74d11d00.png?r=ej6" width="400" alt="Harshavardhan Bamane's Dev Card"/></a>
 </p> -->
 
-<img align="right" alt="omg" width="300" src="https://media.tenor.com/sbSpYEY6CWMAAAAC/eren-yeager.gif">
-
-
+<img align="right" alt="omg" width="400" src="https://i.pinimg.com/originals/c2/84/59/c28459c237af4ca11bdc4464ae29097b.gif">
 
 
 
