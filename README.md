@@ -21,7 +21,7 @@
     <a href="https://app.daily.dev/harshbamane17"><img src="https://api.daily.dev/devcards/25669fe7a23d47e9ad5b522e74d11d00.png?r=ej6" width="400" alt="Harshavardhan Bamane's Dev Card"/></a>
 </p> -->
 
-<img align="right" alt="omg" width="300" src="https://media.tenor.com/_iECzTBYCPsAAAAC/omg-meme-anime-girl.gif">
+<img align="right" alt="omg" width="300" src="https://i.pinimg.com/originals/62/6e/a5/626ea526a99e77215b8cc49def887c37.gif">
 
 
 
