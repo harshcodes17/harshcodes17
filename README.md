@@ -1,8 +1,8 @@
 <div align="center">
-<img src="https://github-widgetbox.vercel.app/api/profile?username=harshcodes17&data=followers,repositories,stars,commits&theme=laser" align="center" style="width: 100%" />
+<!-- <img src="https://github-widgetbox.vercel.app/api/profile?username=harshcodes17&data=followers,repositories,stars,commits&theme=laser" align="center" style="width: 100%" /> -->
 </div>
 <div align="center" style="margin:100px;" >
-  <img src="https://media.tenor.com/sbSpYEY6CWMAAAAC/eren-yeager.gif" alt="welcome"/> 
+<img src="https://i.pinimg.com/originals/62/6e/a5/626ea526a99e77215b8cc49def887c37.gif" alt="welcome"/> 
 </div>
 <div align="center">  
   
@@ -21,7 +21,10 @@
     <a href="https://app.daily.dev/harshbamane17"><img src="https://api.daily.dev/devcards/25669fe7a23d47e9ad5b522e74d11d00.png?r=ej6" width="400" alt="Harshavardhan Bamane's Dev Card"/></a>
 </p> -->
 
-<img align="right" alt="omg" width="300" src="https://i.pinimg.com/originals/62/6e/a5/626ea526a99e77215b8cc49def887c37.gif">
+<img align="right" alt="omg" width="300" src="https://media.tenor.com/sbSpYEY6CWMAAAAC/eren-yeager.gif">
+
+
+
 
 
 
