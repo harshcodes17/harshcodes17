@@ -55,8 +55,8 @@
 </p>-->
 <span>
 <a href="https://github.com/harshcodes17">
-<img height="173" src="https://github-readme-stats-redheadphone.vercel.app/api/top-langs/?username=harshcodes17&layout=compact&langs_count=6&theme=github_dark&border_color=404040" alt="Harsh's Github Top Languages" />
-<img height="173" src="https://github-readme-stats-redheadphone.vercel.app/api?username=harshcodes17&show_icons=true&count_private=true&theme=github_dark&border_color=404040" alt="Harsh's Github Stats" />
+<!-- <img height="173" src="https://github-readme-stats-redheadphone.vercel.app/api/top-langs/?username=harshcodes17&layout=compact&langs_count=6&theme=github_dark&border_color=404040" alt="Harsh's Github Top Languages" />
+<img height="173" src="https://github-readme-stats-redheadphone.vercel.app/api?username=harshcodes17&show_icons=true&count_private=true&theme=github_dark&border_color=404040" alt="Harsh's Github Stats" /> -->
 </a>
 </span>
 
