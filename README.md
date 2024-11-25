@@ -28,22 +28,22 @@
     <a href="https://app.daily.dev/harshbamane17"><img src="https://api.daily.dev/devcards/25669fe7a23d47e9ad5b522e74d11d00.png?r=ej6" width="400" alt="Harshavardhan Bamane's Dev Card"/></a>
 </p> -->
 
-<img align="right" alt="omg" width="400" src="https://i.pinimg.com/originals/c2/84/59/c28459c237af4ca11bdc4464ae29097b.gif">
+<img align="right" alt="omg" width="400" src="https://media.tenor.com/GJw2FmWU5OwAAAAj/fighter-jet.gif">
 
 
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **DSA**
+- 🔭 I’m currently working on **CP/DSA**
 
-- 🌱 I’m currently learning **CSS , React JS**
+- 🌱 I’m currently learning **Backend**
 
-- 👯 I’m looking to collaborate on **Competitive Programming**
+- 👯 I’m looking to collaborate on **Hardware Projects**
 
 - 🤝 I’m looking for help with **AI-ML**
 
-- 💬 Ask me about **C , C++ , STL**
+- 💬 Ask me about **Competitive Programming, Linux, and of course Sports!**
 
 - 📫 How to reach me **harshabamane1718@gmail.com**
 
